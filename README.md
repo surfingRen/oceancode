@@ -33,3 +33,6 @@
 - 服务端：Jersey+springjdbc+mysql（HA）
 - 云服务：centos/ubuntu+docker
 - 数据库设计结合sharding设计
+
+#关于作者
+30192798@qq.com
